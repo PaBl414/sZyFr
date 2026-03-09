@@ -16,7 +16,7 @@ The Caesar Cipher is a simple yet effective encryption technique used for encodi
 4. Review your results in the provided output field.
 
 ## Example
-- Input Message: HELLO
+- Input Message: FRANEK-TO-CFEL
 - Shift Value: 3
 - Encrypted: KHOOR
 - Decrypted: HELLO
